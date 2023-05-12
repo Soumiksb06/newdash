@@ -1,0 +1,6 @@
+dash
+jupyter-dash
+pandas
+matplotlib
+seaborn
+plotly
