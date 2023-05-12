@@ -38,6 +38,7 @@ dta = pd.read_csv("C:/Users/soumi/Downloads/TAL R/intern R/Dummy Data HSS.csv")
 
 # Create the Dash app
 app = JupyterDash(__name__)
+server = app.server
 
 app.layout = html.Div(children=[
     html.H1(children='sb6'),
