@@ -1,18 +1,3 @@
-# In[2]:
-
-
-get_ipython().system('pip install dash')
-
-
-# In[26]:
-
-
-get_ipython().system('pip install jupyter-dash')
-
-
-# In[38]:
-
-
 import pandas as pd
 import matplotlib.pyplot as plt
 import seaborn as sns
