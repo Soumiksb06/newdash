@@ -19,7 +19,7 @@ import os
 #os.chdir('C:/Users/soumi/Downloads/TAL R/intern R')
 
 # Read the CSV file using pandas
-dta = pd.read_csv("C:/Users/soumi/Downloads/TAL R/intern R/Dummy Data HSS.csv")
+dta = pd.read_csv("Dummy Data HSS.csv")
 
 # Create the Dash app
 app = JupyterDash(__name__)
